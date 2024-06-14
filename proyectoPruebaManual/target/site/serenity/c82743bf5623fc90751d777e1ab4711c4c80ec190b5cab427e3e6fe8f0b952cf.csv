@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Alquilar un carro para viaje","buscar disponibilidad de carros","PENDING","2022-08-19T10:01:02.6800443-05:00[America/Bogota]","0.0","7.35"
+"cambiar tipo de divisa a tranzar en la plataforma","cambiar tipo de moneda","PENDING","2022-08-19T10:19:18.173083-05:00[America/Bogota]","0.0","11.23"
+"Buscar una oferta para viajes","buscar disponibilidad de reservas","PENDING","2022-08-19T10:29:38.268371-05:00[America/Bogota]","0.0","33.63"
+"Reservar un alojamiento con 1 niño incluido","reservar alojamiento","PENDING","2022-08-19T09:52:10.072661-05:00[America/Bogota]","0.0","47.95"
+"Seleccionar idioma de la plataforma","cambiar idioma","PENDING","2022-08-19T10:15:41.7699679-05:00[America/Bogota]","0.0","5.73"
+"Reservar un taxi desde el aeropuerto","buscar disponibilidad de taxis","PENDING","2022-08-19T10:08:13.1329766-05:00[America/Bogota]","0.0","7.59"
