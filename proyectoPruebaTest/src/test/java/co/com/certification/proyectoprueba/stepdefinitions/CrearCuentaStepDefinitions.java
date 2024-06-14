@@ -2,9 +2,9 @@ package co.com.certification.proyectoprueba.stepdefinitions;
 
 import co.com.certification.proyectoprueba.exceptions.creacionFallida;
 import co.com.certification.proyectoprueba.questions.creacion.verificarFlujoExitoso;
-import cucumber.api.java.es.Cuando;
-import cucumber.api.java.es.Dado;
-import cucumber.api.java.es.Entonces;
+import io.cucumber.java.es.Cuando;
+import io.cucumber.java.es.Dado;
+import io.cucumber.java.es.Entonces;
 
 import java.util.List;
 import java.util.Map;
@@ -31,7 +31,7 @@ public class CrearCuentaStepDefinitions {
 
     @Cuando("^el usuario ingresa su correo y contrasena$")
     public void elUsuarioIngresaSuCorreoYContrasena() {
-        theActorInTheSpotlight().attemptsTo(CrearCuenta(obtener(CORREO),obtener(CONTRASENA)));
+        theActorInTheSpotlight().attemptsTo(CrearCuenta(obtener(CORREO), obtener(CONTRASENA)));
 
     }
 

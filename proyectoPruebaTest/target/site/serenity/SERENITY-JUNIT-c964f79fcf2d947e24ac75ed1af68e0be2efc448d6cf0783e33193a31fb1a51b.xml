@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Realizar una busqueda de alojamiento sin atutenticarse en Booking.com" skipped="0" tests="2" time="54.73" timestamp="2022-08-19 01:55:25"><testcase name="Realizar busqueda de alojamiento desde pagina de inicio sin niños"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Realizar una busqueda de alojamiento sin atutenticarse en Booking.com" skipped="0" tests="2" time="2.29" timestamp="2024-06-13 10:58:14"><testcase name="Realizar busqueda de alojamiento desde pagina de inicio sin niños"><error message="Could not instantiate class org.openqa.selenium.edge.EdgeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.edge.EdgeDriver</error><system-err>Could not instantiate class org.openqa.selenium.edge.EdgeDriver&#13;
+co.com.certification.proyectoprueba.taks.comunes.abrirPaginaPrincipal.performAs(abrirPaginaPrincipal.java:18)&#13;
+co.com.certification.proyectoprueba.stepdefinitions.CrearCuentaStepDefinitions.queElUsuarioIngresaALaPaginaDeInicio(CrearCuentaStepDefinitions.java:26)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

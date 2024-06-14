@@ -3,8 +3,8 @@ package co.com.certification.proyectoprueba.stepdefinitions;
 import co.com.certification.proyectoprueba.exceptions.busquedaFallida;
 import co.com.certification.proyectoprueba.questions.vuelo.verificarBusquedaVuelo;
 import co.com.certification.proyectoprueba.taks.vuelo.BuscarVuelo;
-import cucumber.api.java.es.Cuando;
-import cucumber.api.java.es.Entonces;
+import io.cucumber.java.es.Cuando;
+import io.cucumber.java.es.Entonces;
 
 import static co.com.certification.proyectoprueba.exceptions.busquedaFallida.BUSQUEDA_FALLIDA;
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
